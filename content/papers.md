@@ -5,7 +5,10 @@ title: Papershelf!
 
 List of all Research Papers that I have read (in no particular order)
 
-Ilya Sutsekevars 30 papers on current AI
+Ilya Sutsekevars reading list on current AI [Link](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
+
+
+
 
 
 
