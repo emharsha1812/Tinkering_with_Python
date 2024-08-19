@@ -9,7 +9,7 @@ A list of all the technical books I am reading on various topics related to Mach
 
 
 #### Deep Learning
-
+ 
 
 
 #### Transformers
